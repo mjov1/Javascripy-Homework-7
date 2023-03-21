@@ -12,5 +12,5 @@ function sumOfArray(items) {
 const arr1 = sumOfArray([5, 10, 15, 20, 25]);
 console.log('Sum of arr1 is ' + arr1);
 
-const arr2 = sumOfArray([1, 2, 3, 4, 5]);
+const arr2 = sumOfArray([1, 'asd', 3, 4, 5]);
 console.log('Sum of arr2 is ' + arr2);
